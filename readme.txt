@@ -44,9 +44,9 @@ GNU General Public License for more details.
 
 Twenty Sixteen Theme bundles the following third-party resources:
 
-HTML5 Shiv v3.7.0, Copyright 2014 Alexander Farkas
+HTML5 Shiv v3.7.0, Copyright 2021 T.DiZkyt
 Licenses: MIT/GPL2
-Source: https://github.com/aFarkas/html5shiv
+Source: https://github.com/thediskyt
 
 Genericons icon font, Copyright 2013-2015 Automattic.com
 License: GNU GPL, Version 2 (or later)
